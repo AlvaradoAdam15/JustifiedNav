@@ -1,0 +1,40 @@
+html {
+    background: url("../img/background.png");;
+    -webkit-background-image: url("../img/background.png");
+    -moz-background-image: url("../img/background.png");
+    -o-background-image: url("../img/background.png");
+    background-size: cover;
+}
+
+body {
+    background: transparent;
+}
+
+h1 {
+    font-family: 'Alegreya', serif;
+    font-weight: 700;
+    line-height: 46px;
+    font-size: 46px;
+    margin: 0 0 43px 0;
+}
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 23px 0;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+}
+
+.nav-justified li {
+    font-family: sans-serif;
+    font-size: 14px;
+}
